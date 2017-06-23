@@ -1,4 +1,4 @@
-package com.citi.mi.directory.compare;
+package dummy;
 
 import java.io.File;
 import java.io.FileInputStream;

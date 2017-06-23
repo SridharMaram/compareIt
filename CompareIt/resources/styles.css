@@ -1,0 +1,7 @@
+.testit {
+  -fx-foreground-color: #ff0000;
+}
+
+.tree-cell:selected {
+    -fx-font-weight: bold ;
+}
